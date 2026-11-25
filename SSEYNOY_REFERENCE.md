@@ -191,19 +191,19 @@ Wh-in-situ: Je oe vi ka keo?; Je oe xàng kachúh keo? keo is a question particl
 
 ## 7. Relative clauses (關係節)
 
-Head-final attributive phrase: relative clause + shé + head. Subject gap lacks shúh in attested examples; non-subject object and location relatives have shúh before the predicate. Possessive relative has resumptive-like gy. Examples:
+Head-final attributive phrase: relative clause + shé + head. Subject gap lacks só in attested examples; non-subject object and location relatives have só before the predicate. Possessive relative has resumptive-like gy. Examples:
 
 | Type | Exact phrase |
 |---|---|
 | Subject | Hàw soi shé rin |
-| Object, past | Soi zaakrit shúh gìn shé kuín |
-| Object | Je shúh máay shé shuh |
-| Object, progressive | Soi shúh oe sik shé shikmut |
-| Locative | Soi shúh zhùu shé ga |
+| Object, past | Soi zaakrit só gìn shé kuín |
+| Object | Je só máay shé shuh |
+| Object, progressive | Soi só oe sik shé shikmut |
+| Locative | Soi só zhùu shé ga |
 | Genitive | Gy fú vi gawshy shé nhúrin. |
 | Subject, ditransitive clause | Gip soi ca shuh shé rin. |
 
-Do not infer indirect-object or comparative relativization from these. The last example relativizes the giver, not the recipient. shúh is the reading associated with 所; shuh is book. Tone matters.
+Do not infer indirect-object or comparative relativization from these. The last example relativizes the giver, not the recipient. só is the reading associated with 所; shuh is book. Tone matters.
 
 ## 8. Space, direction, serial verbs (空間・連動)
 

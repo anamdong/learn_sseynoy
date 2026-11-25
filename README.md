@@ -1,11 +1,13 @@
 # Learn Sseynoy
 
-A static language-learning app with lessons, guided conversations, sentence building, vocabulary review, and a sourced language reference.
+A browser-based Sseynoy language-learning app with guided lessons, sentence building, conversations, reading practice, and an integrated English word-gloss popup.
 
-Open `index.html` locally, or visit [the website](https://anamdong.github.io/learn_sseynoy/). No build step or API key is required.
+## Website
 
-GitHub Pages: deploy from the `main` branch, `/ (root)`.
+[Open Learn Sseynoy](https://anamdong.github.io/learn_sseynoy/)
 
-Progress is stored in the browser for the website origin. Progress from a local file does not automatically transfer to the hosted website.
+## Current content
 
-The current language data follows the 2026-11-21 handoff. Modernized examples retain their historical provenance. See `sseynoy-project/README.md` and the About page for source details.
+This release uses the creator-confirmed 2026-11-25 readings and examples, including the non-subject relative marker **所 só**. It includes 14 learning units, four conversation practices, three readings, progress tracking, and mobile layouts.
+
+The app is static and runs directly from the repository through GitHub Pages.
